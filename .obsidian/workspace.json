@@ -4,17 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "3f64e33377439113",
+        "id": "9bb718a6dd8924be",
         "type": "tabs",
         "children": [
           {
-            "id": "908b4578a9f6e3b6",
+            "id": "91ff67206ca7e417",
             "type": "leaf",
             "state": {
-              "type": "empty",
-              "state": {},
+              "type": "markdown",
+              "state": {
+                "file": "book_review/0001/chapter-0 | Предисловие.md",
+                "mode": "source",
+                "source": false
+              },
               "icon": "lucide-file",
-              "title": "Новая вкладка"
+              "title": "chapter-0 | Предисловие"
             }
           }
         ]
@@ -90,6 +94,7 @@
             "state": {
               "type": "backlink",
               "state": {
+                "file": "book_review/0001/chapter-0 | Предисловие.md",
                 "collapseAll": false,
                 "extraContext": false,
                 "sortOrder": "alphabetical",
@@ -99,7 +104,7 @@
                 "unlinkedCollapsed": true
               },
               "icon": "links-coming-in",
-              "title": "Обратные ссылки"
+              "title": "Обратные ссылки для chapter-0 | Предисловие"
             }
           },
           {
@@ -108,11 +113,12 @@
             "state": {
               "type": "outgoing-link",
               "state": {
+                "file": "book_review/0001/chapter-0 | Предисловие.md",
                 "linksCollapsed": false,
                 "unlinkedCollapsed": true
               },
               "icon": "links-going-out",
-              "title": "Исходящие ссылки"
+              "title": "Исходящие ссылки из chapter-0 | Предисловие"
             }
           },
           {
@@ -150,12 +156,13 @@
             "state": {
               "type": "outline",
               "state": {
+                "file": "book_review/0001/chapter-0 | Предисловие.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура"
+              "title": "Структура chapter-0 | Предисловие"
             }
           },
           {
@@ -187,8 +194,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9777734410ebca1c",
+  "active": "91ff67206ca7e417",
   "lastOpenFiles": [
+    "book_review/0001/chapter-0 | Предисловие.md",
+    "book_review/0001",
     "book_review",
     "Добро пожаловать.md",
     "book/0001.pdf",

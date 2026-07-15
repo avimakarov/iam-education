@@ -4,5 +4,8 @@
   "interfaceFontFamily": "Space Mono",
   "textFontFamily": "Space Mono",
   "nativeMenus": true,
-  "translucency": false
+  "translucency": false,
+  "enabledCssSnippets": [
+    "justify"
+  ]
 }
