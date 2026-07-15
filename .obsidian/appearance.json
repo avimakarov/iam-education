@@ -1,3 +1,8 @@
 {
-  "cssTheme": "Minimal"
+  "cssTheme": "Minimal",
+  "monospaceFontFamily": "Space Mono",
+  "interfaceFontFamily": "Space Mono",
+  "textFontFamily": "Space Mono",
+  "nativeMenus": true,
+  "translucency": false
 }
