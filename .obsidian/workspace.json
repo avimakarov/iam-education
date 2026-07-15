@@ -150,13 +150,12 @@
             "state": {
               "type": "outline",
               "state": {
-                "file": "Добро пожаловать.md",
                 "followCursor": false,
                 "showSearch": false,
                 "searchQuery": ""
               },
               "icon": "lucide-list",
-              "title": "Структура Добро пожаловать"
+              "title": "Структура"
             }
           },
           {
@@ -188,10 +187,10 @@
       "obsidian-git:Open Git source control": false
     }
   },
-  "active": "9777734410ebca1c",
+  "active": "928d519fe6b7ee1b",
   "lastOpenFiles": [
+    "Добро пожаловать.md",
     "book/0001.pdf",
-    "book",
-    "Добро пожаловать.md"
+    "book"
   ]
 }
